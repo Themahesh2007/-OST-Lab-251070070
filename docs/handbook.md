@@ -5,3 +5,4 @@
 3. A maintainer decides which changes are accepted.
 4. A contributor sends changes using a pull request.
 5. Every project should have clear documentation for beginners.
+
